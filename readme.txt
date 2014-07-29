@@ -4,7 +4,7 @@ Donate link: http://www.honza.info
 Tags: oEmbed, YouTube, CSS, center
 Requires at least: 2.9
 Tested up to: 3.0.1
-Stable tag: 1.0
+Stable tag: 1.1
 
 This plugins wraps oEmbed generated HTML with divs that allow for styling them with CSS (style sheet of the theme).
 
@@ -40,9 +40,28 @@ you will make all oembeds (videos and pictures) to be centered; anyway, if you u
 
 == Changelog ==
 
+= 1.1 =
+* converted to class
+* small optimizations
+* flushing oembed cache converted to dirty, but quick method
+* license change
 = 1.0 =
 * Initial release.
 
 == License ==
 
-GNU General Public License version 2 applies
+WTFPL License 2.0 applies
+
+<code>           DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE
+                   Version 2, December 2004
+
+Copyright (C) 2004 Sam Hocevar <sam@hocevar.net>
+
+Everyone is permitted to copy and distribute verbatim or modified
+copies of this license document, and changing it is allowed as long
+as the name is changed.
+
+           DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE
+  TERMS AND CONDITIONS FOR COPYING, DISTRIBUTION AND MODIFICATION
+
+ 0. You just DO WHAT THE FUCK YOU WANT TO.</code>
