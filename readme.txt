@@ -1,7 +1,7 @@
 === oEmbed styling ===
 Contributors: honza.skypala
 Donate link: http://www.honza.info
-Tags: oEmbed, YouTube, CSS, center
+Tags: oEmbed, YouTube, CSS, center, video, custom style, image
 Requires at least: 2.9
 Tested up to: 3.9.1
 Stable tag: 1.1
