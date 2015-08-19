@@ -3,7 +3,7 @@ Contributors: honza.skypala
 Donate link: http://www.honza.info
 Tags: oEmbed, YouTube, CSS, center, video, custom style, image
 Requires at least: 2.9
-Tested up to: 4.2
+Tested up to: 4.3
 Stable tag: 1.1
 
 This plugins wraps oEmbed generated HTML with divs that allow for styling them with CSS (style sheet of the theme).
